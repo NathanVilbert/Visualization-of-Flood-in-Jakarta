@@ -1,0 +1,2 @@
+# Visualization-of-Flood-in-Jakarta-with-Tableau
+The Flood Intensity Visualization and Priority Identification System for Jakarta offers an interactive analysis of flood patterns, severity, and impacted areas from 2013 to 2020. Using BNPB and Kaggle data, it visualizes trends by month and year, highlighting critical areas like North Jakarta, with the highest evacuation sites. This Tableau-based tool provides valuable insights for targeted flood mitigation and urban resilience planning in Jakarta.
