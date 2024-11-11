@@ -15,7 +15,6 @@ The Flood Intensity Visualization and Priority Identification System for Jakarta
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-    <img src="https://img.shields.io/badge/Made%20with-lightgrey?style=for-the-badge" alt="Made with">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/Made%20with%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Made with Python">
   </a>
 </H3>
