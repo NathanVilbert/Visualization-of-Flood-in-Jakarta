@@ -15,5 +15,5 @@ The Flood Intensity Visualization and Priority Identification System for Jakarta
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-    <img src="https://img.shields.io/badge/Made%20with-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Made with Tableau">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Made with Tableau">
 </H3>
